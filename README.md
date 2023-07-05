@@ -12,9 +12,9 @@
 
 ### Basic
 
-- [x] codeStructure [바로가기](https://www.naver.com)
-- [ ] Variable [바로가기](https://www.naver.com)
-- [ ] Strict Mode [바로가기](https://www.naver.com)
-- [ ] Global This [바로가기](https://www.naver.com)
+- [x] codeStructure [바로가기](https://github.com/seumomo/lion-javascript/blob/01.core/client/chapter/core/01.codeStructure.js)
+- [x] Variable [바로가기](https://github.com/seumomo/lion-javascript/blob/01.core/client/chapter/core/02.variables.js)
+- [x] Strict Mode [바로가기](https://github.com/seumomo/lion-javascript/blob/01.core/client/chapter/core/03.strictMode.js)
+- [x] Global This [바로가기](https://github.com/seumomo/lion-javascript/blob/01.core/client/chapter/core/04.globalThis.js)
 - [ ] Data Types [바로가기](https://www.naver.com)
 - [ ] Type Conversion [바로가기](https://www.naver.com)
