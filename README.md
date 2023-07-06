@@ -25,4 +25,4 @@
 - [x] Condition-3 [바로가기](https://github.com/seumomo/lion-javascript/blob/01.core/client/chapter/core/08-3.condition.js)
 - [x] Condition-4 [바로가기](https://github.com/seumomo/lion-javascript/blob/01.core/client/chapter/core/08-4.condition.js)
 - [x] Loop-1 [바로가기](https://github.com/seumomo/lion-javascript/blob/01.core/client/chapter/core/09-1.loop.js)
-- [x] Loop-2 [바로가기](https://github.com/seumomo/lion-javascript/blob/01.core/client/chapter/core/09-1.loop.js)
+- [x] Loop-2 [바로가기](https://github.com/seumomo/lion-javascript/blob/01.core/client/chapter/core/09-2.loop.js)
