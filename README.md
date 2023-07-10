@@ -29,4 +29,6 @@
 - [x] Loop-3 [바로가기](https://github.com/seumomo/lion-javascript/blob/01.core/client/chapter/core/09-3.loop.js)
 - [x] Loop-4 [바로가기](https://github.com/seumomo/lion-javascript/blob/01.core/client/chapter/core/09-4.loop.js)
 - [x] Loop-5 [바로가기](https://github.com/seumomo/lion-javascript/blob/01.core/client/chapter/core/09-5.loop.js)
-- [ ] Function-1 [바로가기](https://github.com/seumomo/lion-javascript/blob/01.core/client/chapter/core/10-1.function.js)
+- [x] Function-1 [바로가기](https://github.com/seumomo/lion-javascript/blob/01.core/client/chapter/core/10-1.function.js)
+- [x] Function-2 [바로가기](https://github.com/seumomo/lion-javascript/blob/01.core/client/chapter/core/10-2.function.js)
+- [x] Function-3 [바로가기](https://github.com/seumomo/lion-javascript/blob/01.core/client/chapter/core/10-3.function.js)
