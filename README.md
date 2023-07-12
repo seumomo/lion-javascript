@@ -34,3 +34,6 @@
 - [x] Function-3 [바로가기](https://github.com/seumomo/lion-javascript/blob/01.core/client/chapter/core/10-3.function.js)
 - [x] Object-1 [바로가기](https://github.com/seumomo/lion-javascript/blob/01.core/client/chapter/core/11-1.object.js)
 - [x] Object-2 [바로가기](https://github.com/seumomo/lion-javascript/blob/01.core/client/chapter/core/11-2.object.js)
+- [x] Object-3 [바로가기](https://github.com/seumomo/lion-javascript/blob/01.core/client/chapter/core/11-3.object.js)
+- [x] Object-4 [바로가기](https://github.com/seumomo/lion-javascript/blob/01.core/client/chapter/core/11-4.object.js)
+- [x] Prototype [바로가기](https://github.com/seumomo/lion-javascript/blob/01.core/client/chapter/core/12.prototype.js)
