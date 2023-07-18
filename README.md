@@ -45,3 +45,5 @@
 - [x] Number [바로가기](https://github.com/seumomo/lion-javascript/blob/01.core/client/chapter/core/17.number.js)
 - [x] String [바로가기](https://github.com/seumomo/lion-javascript/blob/01.core/client/chapter/core/18.string.js)
 - [x] Array Type [바로가기](https://github.com/seumomo/lion-javascript/blob/01.core/client/chapter/core/19.arrayType.js)
+- [x] Array Methods [바로가기](https://github.com/seumomo/lion-javascript/blob/01.core/client/chapter/core/20.arrayMethod.js)
+- [x] Try Catch [바로가기](https://github.com/seumomo/lion-javascript/blob/01.core/client/chapter/core/21.tryCatch.js)
