@@ -17,3 +17,5 @@
 - [x] Manipulation [바로가기](https://github.com/seumomo/lion-javascript/blob/02.dom/client/chapter/dom/05.manipulation.js)
 - [x] Style [바로가기](https://github.com/seumomo/lion-javascript/blob/02.dom/client/chapter/dom/06.style.js)
 - [x] Event [바로가기](https://github.com/seumomo/lion-javascript/blob/02.dom/client/chapter/dom/07.event.js)
+- [x] Bubble [바로가기](https://github.com/seumomo/lion-javascript/blob/02.dom/client/chapter/dom/08.bubble.js)
+- [x] Delegation [바로가기](https://github.com/seumomo/lion-javascript/blob/02.dom/client/chapter/dom/09.delegation.js)
