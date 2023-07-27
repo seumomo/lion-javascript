@@ -73,4 +73,4 @@ const response = await tiger({
 });
 
 const userdata = response.data;
-console.log(userdata);
+// console.log(userdata);
